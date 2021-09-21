@@ -1,3 +1,3 @@
 # Qui suis-je ?
 
-Je suis le readme de la branche principale (main).
+Je suis le readme de la branche 1 (branch-1).
